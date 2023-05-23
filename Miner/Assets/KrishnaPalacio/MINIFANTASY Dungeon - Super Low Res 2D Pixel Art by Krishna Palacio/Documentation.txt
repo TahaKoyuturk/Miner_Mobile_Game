@@ -1,0 +1,38 @@
+Rule Tile
+	The Demo - Tileset scene makes use of a Rule Tile to create the walls.
+	In order to show the scene properly and make use of the Rule Tile, you will need to have downloaded and imported the 2D Tilemap Extras package.
+	If you are using a Unity Version 2020 or older, you will need to enable preview packages in "Package Manager > Advanced Project Settings > Enable Preview Packages."
+	If you are using a Unity Version 2021 or newer, the package should appear in the Unity Registry as a standard package.
+
+	When using the Wall Rule Tile, the wall will appear red when the wall is considered incomplete.
+	You may change these settings by opening the Rule Tile object in "Tile Palettes > Rule Tiles > Wall."
+
+Random Brush
+	In order to place tiles randomly we recommend using the random brushes included in the 2D Tilemap Extras package.
+	For Unity versions 2021 and above: Link here https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@2.0/manual/index.html
+	For Unity versions 2020 and below: Link here https://docs.unity3d.com/Packages/com.unity.2d.tilemap.extras@1.6/manual/index.html
+
+Sorting Layer Setup
+	All objects are on the default layer. The objects are grouped as follows:
+	-10	Ground
+	-9	Ground Decoration, Holes	
+	-8	Ground Shadow			Defined as: shadows that rest on the ground.
+	-7	Walls
+	-6	Walls Decoration
+	-5	Walls Shadow			Defined as: shadows that rest on walls.
+	-4	
+	-3		
+	-2	
+	-1	
+	0	Characters, Props, Prop Shadows
+	1	Above (DoorwayTop)
+
+Placing Objects in the Scene
+	We recommend one of these two options for maintaining crisp pixels while moving objects around the scene:
+		1. Grid Snapping
+			Set Size = 0.125 (1 pixel)
+			You can change this setting in "Edit > Grid and Snap Settings > World Grid > Size."
+		2. Grid and Snap Increment Snap
+			Set Move = 0.125 (1 pixel) or 0.0625 (1/2 pixel)
+			You can change this setting in "Edit > Grid and Snap Settings > Increment Snap > Move."
+			Then hold ctrl while moving objects to increment their position based on the move setting.

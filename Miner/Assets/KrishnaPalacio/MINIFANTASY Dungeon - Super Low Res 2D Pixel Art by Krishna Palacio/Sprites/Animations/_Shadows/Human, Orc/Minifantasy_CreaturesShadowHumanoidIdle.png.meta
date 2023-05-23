@@ -1,0 +1,1723 @@
+fileFormatVersion: 2
+guid: 368ecf942892d014fb47d70072cf8ad7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2562138444706443875
+    second: Minifantasy_CreaturesShadowHumanoidIdle_0
+  - first:
+      213: -3582345247241982910
+    second: Minifantasy_CreaturesShadowHumanoidIdle_1
+  - first:
+      213: 5314806174142814869
+    second: Minifantasy_CreaturesShadowHumanoidIdle_2
+  - first:
+      213: 5866982552679290932
+    second: Minifantasy_CreaturesShadowHumanoidIdle_3
+  - first:
+      213: 4549860067406503186
+    second: Minifantasy_CreaturesShadowHumanoidIdle_4
+  - first:
+      213: 8332119704114880645
+    second: Minifantasy_CreaturesShadowHumanoidIdle_5
+  - first:
+      213: 7036796153650552087
+    second: Minifantasy_CreaturesShadowHumanoidIdle_6
+  - first:
+      213: 6140022067292070746
+    second: Minifantasy_CreaturesShadowHumanoidIdle_7
+  - first:
+      213: -4247061343103996908
+    second: Minifantasy_CreaturesShadowHumanoidIdle_8
+  - first:
+      213: -4288772343608729202
+    second: Minifantasy_CreaturesShadowHumanoidIdle_9
+  - first:
+      213: 7809273923531443269
+    second: Minifantasy_CreaturesShadowHumanoidIdle_10
+  - first:
+      213: 4494681156953839222
+    second: Minifantasy_CreaturesShadowHumanoidIdle_11
+  - first:
+      213: -1901484979284357536
+    second: Minifantasy_CreaturesShadowHumanoidIdle_12
+  - first:
+      213: -8934729289779708383
+    second: Minifantasy_CreaturesShadowHumanoidIdle_13
+  - first:
+      213: -3438072124151631764
+    second: Minifantasy_CreaturesShadowHumanoidIdle_14
+  - first:
+      213: -2314881741425692056
+    second: Minifantasy_CreaturesShadowHumanoidIdle_15
+  - first:
+      213: 297666173831162387
+    second: Minifantasy_CreaturesShadowHumanoidIdle_16
+  - first:
+      213: -3135827316636659225
+    second: Minifantasy_CreaturesShadowHumanoidIdle_17
+  - first:
+      213: 997277208877061209
+    second: Minifantasy_CreaturesShadowHumanoidIdle_18
+  - first:
+      213: 3149349869636851456
+    second: Minifantasy_CreaturesShadowHumanoidIdle_19
+  - first:
+      213: -2750072865498442388
+    second: Minifantasy_CreaturesShadowHumanoidIdle_20
+  - first:
+      213: 8257520045390721529
+    second: Minifantasy_CreaturesShadowHumanoidIdle_21
+  - first:
+      213: -8558099469878918815
+    second: Minifantasy_CreaturesShadowHumanoidIdle_22
+  - first:
+      213: 2912572837714578881
+    second: Minifantasy_CreaturesShadowHumanoidIdle_23
+  - first:
+      213: -8028264407429456215
+    second: Minifantasy_CreaturesShadowHumanoidIdle_24
+  - first:
+      213: -886987057130813764
+    second: Minifantasy_CreaturesShadowHumanoidIdle_25
+  - first:
+      213: -3662664807132695845
+    second: Minifantasy_CreaturesShadowHumanoidIdle_26
+  - first:
+      213: -8224743365537991438
+    second: Minifantasy_CreaturesShadowHumanoidIdle_27
+  - first:
+      213: -2348884932904722926
+    second: Minifantasy_CreaturesShadowHumanoidIdle_28
+  - first:
+      213: -3061033421389103263
+    second: Minifantasy_CreaturesShadowHumanoidIdle_29
+  - first:
+      213: -2214391899310809816
+    second: Minifantasy_CreaturesShadowHumanoidIdle_30
+  - first:
+      213: 8167701125048069332
+    second: Minifantasy_CreaturesShadowHumanoidIdle_31
+  - first:
+      213: 3997890678606302315
+    second: Minifantasy_CreaturesShadowHumanoidIdle_32
+  - first:
+      213: -2739534221319381765
+    second: Minifantasy_CreaturesShadowHumanoidIdle_33
+  - first:
+      213: 5180722440286451541
+    second: Minifantasy_CreaturesShadowHumanoidIdle_34
+  - first:
+      213: -4298592298866761818
+    second: Minifantasy_CreaturesShadowHumanoidIdle_35
+  - first:
+      213: 7167924873779889720
+    second: Minifantasy_CreaturesShadowHumanoidIdle_36
+  - first:
+      213: -5426336703757430146
+    second: Minifantasy_CreaturesShadowHumanoidIdle_37
+  - first:
+      213: 1051791274023736953
+    second: Minifantasy_CreaturesShadowHumanoidIdle_38
+  - first:
+      213: 8509228502609211777
+    second: Minifantasy_CreaturesShadowHumanoidIdle_39
+  - first:
+      213: 4629840544950647195
+    second: Minifantasy_CreaturesShadowHumanoidIdle_40
+  - first:
+      213: 858187534151608240
+    second: Minifantasy_CreaturesShadowHumanoidIdle_41
+  - first:
+      213: -3426829214808602794
+    second: Minifantasy_CreaturesShadowHumanoidIdle_42
+  - first:
+      213: 5105719493148934417
+    second: Minifantasy_CreaturesShadowHumanoidIdle_43
+  - first:
+      213: 8420150361316561052
+    second: Minifantasy_CreaturesShadowHumanoidIdle_44
+  - first:
+      213: 7612251474466539943
+    second: Minifantasy_CreaturesShadowHumanoidIdle_45
+  - first:
+      213: -7486425771686942762
+    second: Minifantasy_CreaturesShadowHumanoidIdle_46
+  - first:
+      213: 7278895396220556331
+    second: Minifantasy_CreaturesShadowHumanoidIdle_47
+  - first:
+      213: 8876121753218820712
+    second: Minifantasy_CreaturesShadowHumanoidIdle_48
+  - first:
+      213: 8534600868291777322
+    second: Minifantasy_CreaturesShadowHumanoidIdle_49
+  - first:
+      213: -8862618524603705664
+    second: Minifantasy_CreaturesShadowHumanoidIdle_50
+  - first:
+      213: -4206960720356518107
+    second: Minifantasy_CreaturesShadowHumanoidIdle_51
+  - first:
+      213: 9185281755789983888
+    second: Minifantasy_CreaturesShadowHumanoidIdle_52
+  - first:
+      213: -4370259089192632080
+    second: Minifantasy_CreaturesShadowHumanoidIdle_53
+  - first:
+      213: 1558282020637180070
+    second: Minifantasy_CreaturesShadowHumanoidIdle_54
+  - first:
+      213: 1554197023009762534
+    second: Minifantasy_CreaturesShadowHumanoidIdle_55
+  - first:
+      213: -7020942823457289320
+    second: Minifantasy_CreaturesShadowHumanoidIdle_56
+  - first:
+      213: 19379484970894771
+    second: Minifantasy_CreaturesShadowHumanoidIdle_57
+  - first:
+      213: 2095176328101555460
+    second: Minifantasy_CreaturesShadowHumanoidIdle_58
+  - first:
+      213: -6270000062572694089
+    second: Minifantasy_CreaturesShadowHumanoidIdle_59
+  - first:
+      213: 4891112089054702173
+    second: Minifantasy_CreaturesShadowHumanoidIdle_60
+  - first:
+      213: -1025133066385728279
+    second: Minifantasy_CreaturesShadowHumanoidIdle_61
+  - first:
+      213: -7161254980905270919
+    second: Minifantasy_CreaturesShadowHumanoidIdle_62
+  - first:
+      213: 2452022086401673642
+    second: Minifantasy_CreaturesShadowHumanoidIdle_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d86e9c8a4717cd0800000000000000
+      internalID: -2562138444706443875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c255b4af3f84ec0800000000000000
+      internalID: -3582345247241982910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad5db6e0cf1c940800000000000000
+      internalID: 5314806174142814869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381ddb0c85bb6150800000000000000
+      internalID: 5866982552679290932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ddf7700a9542f30800000000000000
+      internalID: 4549860067406503186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ecc5b9b2a1a370800000000000000
+      internalID: 8332119704114880645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d1d27b1d8b7a160800000000000000
+      internalID: 7036796153650552087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e00af98db53550800000000000000
+      internalID: 6140022067292070746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2ef8d5386f05c0800000000000000
+      internalID: -4247061343103996908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81aea0c6483b74c0800000000000000
+      internalID: -4288772343608729202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c00d5124d106c60800000000000000
+      internalID: 7809273923531443269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67610eac2b0506e30800000000000000
+      internalID: 4494681156953839222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec3006c719c95e0800000000000000
+      internalID: -1901484979284357536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef6669c07710480800000000000000
+      internalID: -8934729289779708383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f4c76e938940d0800000000000000
+      internalID: -3438072124151631764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b8492253efdfd0800000000000000
+      internalID: -2314881741425692056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2bd8dec5812400800000000000000
+      internalID: 297666173831162387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d7ea7bad4b74d0800000000000000
+      internalID: -3135827316636659225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954d5b1765a07dd00800000000000000
+      internalID: 997277208877061209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007902d350db4bb20800000000000000
+      internalID: 3149349869636851456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c655681ac47c5d9d0800000000000000
+      internalID: -2750072865498442388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f17e272bba989270800000000000000
+      internalID: 8257520045390721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618869ffd58b3980800000000000000
+      internalID: -8558099469878918815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdcd6e70998b6820800000000000000
+      internalID: 2912572837714578881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae51489e00e59090800000000000000
+      internalID: -8028264407429456215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6495398f9c0b3f0800000000000000
+      internalID: -886987057130813764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f78773c99b2dc0800000000000000
+      internalID: -3662664807132695845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f47b505c77dbdd80800000000000000
+      internalID: -8224743365537991438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e52f33995176fd0800000000000000
+      internalID: -2348884932904722926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff08042560585d0800000000000000
+      internalID: -3061033421389103263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d9318cc46e441e0800000000000000
+      internalID: -2214391899310809816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6c0e16e0895170800000000000000
+      internalID: 8167701125048069332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8c25f36c5b7730800000000000000
+      internalID: 3997890678606302315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5b30f3283bf9d0800000000000000
+      internalID: -2739534221319381765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5573b2d5c9f95e740800000000000000
+      internalID: 5180722440286451541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af11df34155854c0800000000000000
+      internalID: -4298592298866761818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836465602b5997360800000000000000
+      internalID: 7167924873779889720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72dfd49487c1b4b0800000000000000
+      internalID: -5426336703757430146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765a025796b89e00800000000000000
+      internalID: 1051791274023736953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b6a24d3ad61670800000000000000
+      internalID: 8509228502609211777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99fb78127f704040800000000000000
+      internalID: 4629840544950647195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b766c3f305e8eb00800000000000000
+      internalID: 858187534151608240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65707693cf47170d0800000000000000
+      internalID: -3426829214808602794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110ee7e3d82bd640800000000000000
+      internalID: 5105719493148934417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9096a944226ad470800000000000000
+      internalID: 8420150361316561052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a98584726624a960800000000000000
+      internalID: 7612251474466539943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72549ec6fda1890800000000000000
+      internalID: -7486425771686942762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d3f03cc4d30560800000000000000
+      internalID: 7278895396220556331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa9b3f4b15e2b70800000000000000
+      internalID: 8876121753218820712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23954e754ef07670800000000000000
+      internalID: 8534600868291777322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c613357867a10580800000000000000
+      internalID: -8862618524603705664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d027a38fdd95c0800000000000000
+      internalID: -4206960720356518107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0900db7571da87f70800000000000000
+      internalID: 9185281755789983888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f040445388b953c0800000000000000
+      internalID: -4370259089192632080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a005fbdd3120a510800000000000000
+      internalID: 1558282020637180070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec677b35fd919510800000000000000
+      internalID: 1554197023009762534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b008b53b9909e90800000000000000
+      internalID: -7020942823457289320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5ce95f989d44000800000000000000
+      internalID: 19379484970894771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dec4a05cf831d10800000000000000
+      internalID: 2095176328101555460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57da8b92c7cf8a0800000000000000
+      internalID: -6270000062572694089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a69b0e788b0e340800000000000000
+      internalID: 4891112089054702173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec529258eef5c1f0800000000000000
+      internalID: -1025133066385728279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971052d698c1e9c90800000000000000
+      internalID: -7161254980905270919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minifantasy_CreaturesShadowHumanoidIdle_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94261a815570220800000000000000
+      internalID: 2452022086401673642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Minifantasy_CreaturesShadowHumanoidIdle_56: -7020942823457289320
+      Minifantasy_CreaturesShadowHumanoidIdle_0: -2562138444706443875
+      Minifantasy_CreaturesShadowHumanoidIdle_19: 3149349869636851456
+      Minifantasy_CreaturesShadowHumanoidIdle_29: -3061033421389103263
+      Minifantasy_CreaturesShadowHumanoidIdle_62: -7161254980905270919
+      Minifantasy_CreaturesShadowHumanoidIdle_23: 2912572837714578881
+      Minifantasy_CreaturesShadowHumanoidIdle_34: 5180722440286451541
+      Minifantasy_CreaturesShadowHumanoidIdle_51: -4206960720356518107
+      Minifantasy_CreaturesShadowHumanoidIdle_44: 8420150361316561052
+      Minifantasy_CreaturesShadowHumanoidIdle_37: -5426336703757430146
+      Minifantasy_CreaturesShadowHumanoidIdle_41: 858187534151608240
+      Minifantasy_CreaturesShadowHumanoidIdle_50: -8862618524603705664
+      Minifantasy_CreaturesShadowHumanoidIdle_46: -7486425771686942762
+      Minifantasy_CreaturesShadowHumanoidIdle_57: 19379484970894771
+      Minifantasy_CreaturesShadowHumanoidIdle_3: 5866982552679290932
+      Minifantasy_CreaturesShadowHumanoidIdle_4: 4549860067406503186
+      Minifantasy_CreaturesShadowHumanoidIdle_17: -3135827316636659225
+      Minifantasy_CreaturesShadowHumanoidIdle_55: 1554197023009762534
+      Minifantasy_CreaturesShadowHumanoidIdle_16: 297666173831162387
+      Minifantasy_CreaturesShadowHumanoidIdle_21: 8257520045390721529
+      Minifantasy_CreaturesShadowHumanoidIdle_13: -8934729289779708383
+      Minifantasy_CreaturesShadowHumanoidIdle_48: 8876121753218820712
+      Minifantasy_CreaturesShadowHumanoidIdle_59: -6270000062572694089
+      Minifantasy_CreaturesShadowHumanoidIdle_58: 2095176328101555460
+      Minifantasy_CreaturesShadowHumanoidIdle_7: 6140022067292070746
+      Minifantasy_CreaturesShadowHumanoidIdle_63: 2452022086401673642
+      Minifantasy_CreaturesShadowHumanoidIdle_9: -4288772343608729202
+      Minifantasy_CreaturesShadowHumanoidIdle_53: -4370259089192632080
+      Minifantasy_CreaturesShadowHumanoidIdle_10: 7809273923531443269
+      Minifantasy_CreaturesShadowHumanoidIdle_40: 4629840544950647195
+      Minifantasy_CreaturesShadowHumanoidIdle_8: -4247061343103996908
+      Minifantasy_CreaturesShadowHumanoidIdle_26: -3662664807132695845
+      Minifantasy_CreaturesShadowHumanoidIdle_39: 8509228502609211777
+      Minifantasy_CreaturesShadowHumanoidIdle_31: 8167701125048069332
+      Minifantasy_CreaturesShadowHumanoidIdle_38: 1051791274023736953
+      Minifantasy_CreaturesShadowHumanoidIdle_32: 3997890678606302315
+      Minifantasy_CreaturesShadowHumanoidIdle_20: -2750072865498442388
+      Minifantasy_CreaturesShadowHumanoidIdle_42: -3426829214808602794
+      Minifantasy_CreaturesShadowHumanoidIdle_18: 997277208877061209
+      Minifantasy_CreaturesShadowHumanoidIdle_36: 7167924873779889720
+      Minifantasy_CreaturesShadowHumanoidIdle_28: -2348884932904722926
+      Minifantasy_CreaturesShadowHumanoidIdle_45: 7612251474466539943
+      Minifantasy_CreaturesShadowHumanoidIdle_12: -1901484979284357536
+      Minifantasy_CreaturesShadowHumanoidIdle_54: 1558282020637180070
+      Minifantasy_CreaturesShadowHumanoidIdle_60: 4891112089054702173
+      Minifantasy_CreaturesShadowHumanoidIdle_2: 5314806174142814869
+      Minifantasy_CreaturesShadowHumanoidIdle_52: 9185281755789983888
+      Minifantasy_CreaturesShadowHumanoidIdle_14: -3438072124151631764
+      Minifantasy_CreaturesShadowHumanoidIdle_15: -2314881741425692056
+      Minifantasy_CreaturesShadowHumanoidIdle_61: -1025133066385728279
+      Minifantasy_CreaturesShadowHumanoidIdle_30: -2214391899310809816
+      Minifantasy_CreaturesShadowHumanoidIdle_1: -3582345247241982910
+      Minifantasy_CreaturesShadowHumanoidIdle_24: -8028264407429456215
+      Minifantasy_CreaturesShadowHumanoidIdle_6: 7036796153650552087
+      Minifantasy_CreaturesShadowHumanoidIdle_22: -8558099469878918815
+      Minifantasy_CreaturesShadowHumanoidIdle_11: 4494681156953839222
+      Minifantasy_CreaturesShadowHumanoidIdle_33: -2739534221319381765
+      Minifantasy_CreaturesShadowHumanoidIdle_35: -4298592298866761818
+      Minifantasy_CreaturesShadowHumanoidIdle_47: 7278895396220556331
+      Minifantasy_CreaturesShadowHumanoidIdle_5: 8332119704114880645
+      Minifantasy_CreaturesShadowHumanoidIdle_49: 8534600868291777322
+      Minifantasy_CreaturesShadowHumanoidIdle_27: -8224743365537991438
+      Minifantasy_CreaturesShadowHumanoidIdle_25: -886987057130813764
+      Minifantasy_CreaturesShadowHumanoidIdle_43: 5105719493148934417
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

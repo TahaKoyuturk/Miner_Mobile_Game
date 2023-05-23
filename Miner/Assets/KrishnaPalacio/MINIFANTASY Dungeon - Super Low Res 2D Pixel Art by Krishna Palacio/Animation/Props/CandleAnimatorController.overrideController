@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CandleAnimatorController
+  m_Controller: {fileID: 9100000, guid: 1aa8a1a07a5aee1408427f026f4e2061, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fdcede4159f988e4187022b197099b8a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 855abaa2c0351bd438ee3e53bc544d2a, type: 2}

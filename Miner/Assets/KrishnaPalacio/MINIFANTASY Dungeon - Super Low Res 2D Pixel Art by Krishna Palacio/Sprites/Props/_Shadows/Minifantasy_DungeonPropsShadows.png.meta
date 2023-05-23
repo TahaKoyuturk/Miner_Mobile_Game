@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: bedf2249d571fad4bb00e65a7679e446
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4323101415237281611
+    second: TS1_Shadow_Minifantasy_DungeonPropsShadows_0
+  - first:
+      213: -201388941982666039
+    second: TS2_Shadow_Minifantasy_DungeonPropsShadows_1
+  - first:
+      213: 1555585009177036896
+    second: TS3_Shadow_Minifantasy_DungeonPropsShadows_2
+  - first:
+      213: -1251097633990704145
+    second: TW1_Shadow_Minifantasy_DungeonPropsShadows_3
+  - first:
+      213: 5472987855207448432
+    second: TW2_Shadow_Minifantasy_DungeonPropsShadows_4
+  - first:
+      213: 8098204612460016722
+    second: Crate_Shadow_Minifantasy_DungeonPropsShadows_5
+  - first:
+      213: -5018907269183208951
+    second: Bag1_Shadow_Minifantasy_DungeonPropsShadows_6
+  - first:
+      213: -109379005264513712
+    second: Bag2_Shadow_Minifantasy_DungeonPropsShadows_7
+  - first:
+      213: 7745867119198030996
+    second: Pot_Shadow_Minifantasy_DungeonPropsShadows_8
+  - first:
+      213: 7746532262694463226
+    second: Plate_Shadow_Minifantasy_DungeonPropsShadows_9
+  - first:
+      213: -5707590503024773065
+    second: CM_Shadow_Minifantasy_DungeonPropsShadows_10
+  - first:
+      213: -7705244556953326594
+    second: Chair5_Shadow_Minifantasy_DungeonPropsShadows_11
+  - first:
+      213: -5337670303548885857
+    second: Chair6_Shadow_Minifantasy_DungeonPropsShadows_12
+  - first:
+      213: -8420322007779036204
+    second: Candle_Shadow_Minifantasy_DungeonPropsShadows_13
+  - first:
+      213: 2313429850533536075
+    second: TB1_Shadow_Minifantasy_DungeonPropsShadows_14
+  - first:
+      213: -3263390419124328559
+    second: TB2_Shadow_Minifantasy_DungeonPropsShadows_15
+  - first:
+      213: -1071254262379427136
+    second: TL1_Shadow_Minifantasy_DungeonPropsShadows_16
+  - first:
+      213: -5059754668654186227
+    second: TL2_Shadow_Minifantasy_DungeonPropsShadows_17
+  - first:
+      213: 5084460836007813195
+    second: TL3_Shadow_Minifantasy_DungeonPropsShadows_18
+  - first:
+      213: 5528457433268544252
+    second: B1_Shadow_Minifantasy_DungeonPropsShadows_19
+  - first:
+      213: 8098068279398977029
+    second: B2_Shadow_Minifantasy_DungeonPropsShadows_20
+  - first:
+      213: 5279663051781710251
+    second: B3_Shadow_Minifantasy_DungeonPropsShadows_21
+  - first:
+      213: 2521061885386690621
+    second: B4_Shadow_Minifantasy_DungeonPropsShadows_22
+  - first:
+      213: -3511487948510583650
+    second: B5_Shadow_Minifantasy_DungeonPropsShadows_23
+  - first:
+      213: -7232355327869492076
+    second: B6_Shadow_Minifantasy_DungeonPropsShadows_24
+  - first:
+      213: -8754962507700609825
+    second: Chair1_Shadow_Minifantasy_DungeonPropsShadows_25
+  - first:
+      213: -6877039535093087107
+    second: Chair2_Shadow_Minifantasy_DungeonPropsShadows_26
+  - first:
+      213: 5493687131121094212
+    second: Chair3_Shadow_Minifantasy_DungeonPropsShadows_27
+  - first:
+      213: 7746534282326919062
+    second: Chair4_Shadow_Minifantasy_DungeonPropsShadows_28
+  - first:
+      213: 316941724705502740
+    second: Chest_Shadow_Minifantasy_DungeonPropsShadows_29
+  - first:
+      213: 6021448441947824300
+    second: ChestOpen_Shadow_Minifantasy_DungeonPropsShadows_30
+  - first:
+      213: -3040155771120981901
+    second: Cauldron_Shadow_Minifantasy_DungeonPropsShadows_31
+  - first:
+      213: 5812831960368060511
+    second: Statue_Shadow_Minifantasy_DungeonPropsShadows_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TS1_Shadow_Minifantasy_DungeonPropsShadows_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e43715ddbefb30800000000000000
+      internalID: 4323101415237281611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS2_Shadow_Minifantasy_DungeonPropsShadows_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27e6303d5843df0800000000000000
+      internalID: -201388941982666039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TS3_Shadow_Minifantasy_DungeonPropsShadows_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688be1f25c869510800000000000000
+      internalID: 1555585009177036896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TW1_Shadow_Minifantasy_DungeonPropsShadows_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe307aa945533aee0800000000000000
+      internalID: -1251097633990704145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TW2_Shadow_Minifantasy_DungeonPropsShadows_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbaa90575f3fb40800000000000000
+      internalID: 5472987855207448432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crate_Shadow_Minifantasy_DungeonPropsShadows_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254fb1c503a926070800000000000000
+      internalID: 8098204612460016722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bag1_Shadow_Minifantasy_DungeonPropsShadows_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90285b31e62495ab0800000000000000
+      internalID: -5018907269183208951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bag2_Shadow_Minifantasy_DungeonPropsShadows_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b25dcf586b7ef0800000000000000
+      internalID: -109379005264513712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pot_Shadow_Minifantasy_DungeonPropsShadows_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4d250b19de7b60800000000000000
+      internalID: 7745867119198030996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plate_Shadow_Minifantasy_DungeonPropsShadows_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 121
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a10fcc06318b60800000000000000
+      internalID: 7746532262694463226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CM_Shadow_Minifantasy_DungeonPropsShadows_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b0d77da09ac0b0800000000000000
+      internalID: -5707590503024773065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair5_Shadow_Minifantasy_DungeonPropsShadows_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 120
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe84b46e8711590800000000000000
+      internalID: -7705244556953326594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair6_Shadow_Minifantasy_DungeonPropsShadows_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9431dc9329cce5b0800000000000000
+      internalID: -5337670303548885857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candle_Shadow_Minifantasy_DungeonPropsShadows_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d33de72fb1052b80800000000000000
+      internalID: -8420322007779036204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB1_Shadow_Minifantasy_DungeonPropsShadows_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4126d52134fa1020800000000000000
+      internalID: 2313429850533536075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TB2_Shadow_Minifantasy_DungeonPropsShadows_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976ea834bb16b2d0800000000000000
+      internalID: -3263390419124328559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TL1_Shadow_Minifantasy_DungeonPropsShadows_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca40c29ce32221f0800000000000000
+      internalID: -1071254262379427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TL2_Shadow_Minifantasy_DungeonPropsShadows_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d013e34cfe328c9b0800000000000000
+      internalID: -5059754668654186227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TL3_Shadow_Minifantasy_DungeonPropsShadows_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a1a41132af8640800000000000000
+      internalID: 5084460836007813195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B1_Shadow_Minifantasy_DungeonPropsShadows_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2e6d99eb609bc40800000000000000
+      internalID: 5528457433268544252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B2_Shadow_Minifantasy_DungeonPropsShadows_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e4f68d13e126070800000000000000
+      internalID: 8098068279398977029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B3_Shadow_Minifantasy_DungeonPropsShadows_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1243f9291254940800000000000000
+      internalID: 5279663051781710251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B4_Shadow_Minifantasy_DungeonPropsShadows_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3010477d6c9cf220800000000000000
+      internalID: 2521061885386690621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B5_Shadow_Minifantasy_DungeonPropsShadows_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9426f3c050b44fc0800000000000000
+      internalID: -3511487948510583650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B6_Shadow_Minifantasy_DungeonPropsShadows_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946fe0e52381ab90800000000000000
+      internalID: -7232355327869492076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair1_Shadow_Minifantasy_DungeonPropsShadows_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc54aa2cff108680800000000000000
+      internalID: -8754962507700609825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair2_Shadow_Minifantasy_DungeonPropsShadows_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74857c9af8df80a0800000000000000
+      internalID: -6877039535093087107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair3_Shadow_Minifantasy_DungeonPropsShadows_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e8b95c65f7d3c40800000000000000
+      internalID: 5493687131121094212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chair4_Shadow_Minifantasy_DungeonPropsShadows_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b7a03e7318b60800000000000000
+      internalID: 7746534282326919062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Shadow_Minifantasy_DungeonPropsShadows_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163293c1d0066400800000000000000
+      internalID: 316941724705502740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauldron_Shadow_Minifantasy_DungeonPropsShadows_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ea700f623fc5d0800000000000000
+      internalID: -3040155771120981901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Statue_Shadow_Minifantasy_DungeonPropsShadows_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 75
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5896c8ced35ba050800000000000000
+      internalID: 5812831960368060511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TS2_Shadow_Minifantasy_DungeonPropsShadows_1: -201388941982666039
+      Bag2_Shadow_Minifantasy_DungeonPropsShadows_7: -109379005264513712
+      Chair3_Shadow_Minifantasy_DungeonPropsShadows_27: 5493687131121094212
+      TB1_Shadow_Minifantasy_DungeonPropsShadows_14: 2313429850533536075
+      Plate_Shadow_Minifantasy_DungeonPropsShadows_9: 7746532262694463226
+      TW1_Shadow_Minifantasy_DungeonPropsShadows_3: -1251097633990704145
+      B4_Shadow_Minifantasy_DungeonPropsShadows_22: 2521061885386690621
+      B6_Shadow_Minifantasy_DungeonPropsShadows_24: -7232355327869492076
+      Candle_Shadow_Minifantasy_DungeonPropsShadows_13: -8420322007779036204
+      Statue_Shadow_Minifantasy_DungeonPropsShadows_32: 5812831960368060511
+      Chair4_Shadow_Minifantasy_DungeonPropsShadows_28: 7746534282326919062
+      Chair5_Shadow_Minifantasy_DungeonPropsShadows_11: -7705244556953326594
+      Cauldron_Shadow_Minifantasy_DungeonPropsShadows_31: -3040155771120981901
+      Chest_Shadow_Minifantasy_DungeonPropsShadows_29: 316941724705502740
+      B5_Shadow_Minifantasy_DungeonPropsShadows_23: -3511487948510583650
+      TS1_Shadow_Minifantasy_DungeonPropsShadows_0: 4323101415237281611
+      TW2_Shadow_Minifantasy_DungeonPropsShadows_4: 5472987855207448432
+      TS3_Shadow_Minifantasy_DungeonPropsShadows_2: 1555585009177036896
+      B3_Shadow_Minifantasy_DungeonPropsShadows_21: 5279663051781710251
+      Crate_Shadow_Minifantasy_DungeonPropsShadows_5: 8098204612460016722
+      TL1_Shadow_Minifantasy_DungeonPropsShadows_16: -1071254262379427136
+      TL2_Shadow_Minifantasy_DungeonPropsShadows_17: -5059754668654186227
+      Pot_Shadow_Minifantasy_DungeonPropsShadows_8: 7745867119198030996
+      TL3_Shadow_Minifantasy_DungeonPropsShadows_18: 5084460836007813195
+      B1_Shadow_Minifantasy_DungeonPropsShadows_19: 5528457433268544252
+      Chair1_Shadow_Minifantasy_DungeonPropsShadows_25: -8754962507700609825
+      B2_Shadow_Minifantasy_DungeonPropsShadows_20: 8098068279398977029
+      Chair6_Shadow_Minifantasy_DungeonPropsShadows_12: -5337670303548885857
+      Bag1_Shadow_Minifantasy_DungeonPropsShadows_6: -5018907269183208951
+      TB2_Shadow_Minifantasy_DungeonPropsShadows_15: -3263390419124328559
+      CM_Shadow_Minifantasy_DungeonPropsShadows_10: -5707590503024773065
+      Chair2_Shadow_Minifantasy_DungeonPropsShadows_26: -6877039535093087107
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
