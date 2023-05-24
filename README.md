@@ -4,9 +4,9 @@
 ## Here is a Miner Game Demo Video
  https://youtu.be/K-N0MPGI3Dc
 ## Game Images
- ![1](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/c01bc7dd-d552-4205-accf-0d0407195ded)
-![2](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/b72b4589-f089-4acb-a577-51a87783223c)
-![3](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/78bf78ff-80eb-4f35-9041-d1299d74acb0)
-![4](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/1a09ef15-e7d1-4253-8149-308f253b1ca4)
-![5](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/9181d1fc-86e2-4018-ab81-51ac280b901c)
-![6](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/9cae480c-350b-4ce2-ab6e-f0a45d0b58dc)
+![1](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/539b082e-e480-45e8-925f-3550914767eb)
+![2](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/37abe821-c21f-4247-95bc-f63d3c0bc07f)
+![3](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/9ae5a519-5f5c-4b9c-b4d2-14015b09d025)
+![4](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/8d4b0065-bf73-45b1-a845-c500f50d1b6e)
+![5](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/5cb136bc-052a-4df9-b483-d58384fde4d4)
+![6](https://github.com/TahaKoyuturk/Miner_Mobile_Game/assets/59308946/d1fbc7ee-e79a-4ff1-88bc-3e92a67cf263)
